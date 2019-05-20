@@ -8,3 +8,7 @@ Step 1 - Register your App in Facebook Developer Website
 
 1.2 Type the display name of your application and your contact email to create the application.
 
+![image](https://user-images.githubusercontent.com/50174329/58014955-ab4e2400-7b17-11e9-9c8a-7706f9f8d3d2.png)
+
+1.3 Associate “Facebook Login” with your application.
+
