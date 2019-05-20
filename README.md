@@ -31,3 +31,4 @@ Step 2 - Obtaining the Authorization Code
 
 2.1 Send a HTTP GET request to the Authorize Endpoint of Facebook to obtain the authorization code from facebook using https://www.facebook.com/dialog/oauth.
 
+![image](https://user-images.githubusercontent.com/50174329/58016538-7c39b180-7b1b-11e9-94ee-0b89960f82d2.png)
