@@ -57,6 +57,14 @@ Step 3 - Obtaining the Access Token
 
 ![image](https://user-images.githubusercontent.com/50174329/58018176-bc9b2e80-7b1f-11e9-9e3c-d95988cf2a19.png)
 
+3.2 Prepare the authorization header with the App credentials.
 
+App ID = 447467986082418
+App Secret = 363a41d88276ec4fd709ff51e2feca13
+AppID:AppSecret = 447467986082418:363a41d88276ec4fd709ff51e2feca13
+Base64(AppID:AppSecret) = NDQ3NDY3OTg2MDgyNDE4OjM2M2E0MWQ4ODI3NmVjNGZkNzA5ZmY1MWUyZmVjYTEz
 
+3.3 Add the header as follows:
+
+Authorization: Basic NDQ3NDY3OTg2MDgyNDE4OjM2M2E0MWQ4ODI3NmVjNGZkNzA5ZmY1MWUyZmVjYTEz
 
