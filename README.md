@@ -105,3 +105,7 @@ Step 4 - Make your app public.
 
 ![image](https://user-images.githubusercontent.com/50174329/58035940-8671a500-7b47-11e9-9801-4cade0a4accb.png)
 
+4.1 Select your app category
+
+![image](https://user-images.githubusercontent.com/50174329/58036278-58d92b80-7b48-11e9-9acc-2ddfd380848a.png)
+
