@@ -72,13 +72,13 @@ Authorization: Basic NDQ3NDY3OTg2MDgyNDE4OjM2M2E0MWQ4ODI3NmVjNGZkNzA5ZmY1MWUyZmV
 
 ![image](https://user-images.githubusercontent.com/50174329/58018900-bf971e80-7b21-11e9-95e7-5f10630c6292.png)
 
-![image](https://user-images.githubusercontent.com/50174329/58034261-c9ca1480-7b43-11e9-9e42-cb928bcc3c77.png)
+![image](https://user-images.githubusercontent.com/50174329/58019023-1b61a780-7b22-11e9-8bcf-84061d8a8dc9.png)
 
 ![image](https://user-images.githubusercontent.com/50174329/58033919-06e1d700-7b43-11e9-8af4-4ef1bb620bad.png)
 
-3.5 Obtain the Access Token.
+![image](https://user-images.githubusercontent.com/50174329/58034261-c9ca1480-7b43-11e9-9e42-cb928bcc3c77.png)
 
-![image](https://user-images.githubusercontent.com/50174329/58019023-1b61a780-7b22-11e9-8bcf-84061d8a8dc9.png)
+3.5 Obtain the Access Token.
 
 grant_type=authorization_code&redirect_uri=http%3A%2F%2Flocalhost%3A8080%2Ffacebookapp%2Fcallback&client_id=447467986082418&code=AQCPK2oPP0jNwNdWixP29lr9DzPTpVaFhJxa4I61VGUIx6mq5z9WpO_tXL5qTx6E2vkj1w53_hOUZrdghCOieK7ysQfD59NzfLTcO8Bxs_vhzMV73uAwls2SqR2IpN1Yzcu1BeS2bdI4zUqoDLt-utUmKrmXD-iw58XpYDrr06_acl7kVo112UdgsTWNrYBNXsYDx1GVCI53B45nqoEJYgtMdsngQV_1swNjvx2cdCIztyt5DvqFBk6ntVCY26Ag3FiYD0QipBTQOxfW1StSXO-tC_USWnAvG2mwV5rBHuqRCDuQiX_Ke6vuq-lzTjqVpe4#_=_
 
