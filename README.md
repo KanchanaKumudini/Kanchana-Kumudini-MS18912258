@@ -70,3 +70,6 @@ Authorization: Basic NDQ3NDY3OTg2MDgyNDE4OjM2M2E0MWQ4ODI3NmVjNGZkNzA5ZmY1MWUyZmV
 
 3.4 Use a HTTP Client browser plugin like RESTClient send the request.
 
+![image](https://user-images.githubusercontent.com/50174329/58018900-bf971e80-7b21-11e9-95e7-5f10630c6292.png)
+
+3.5 Obtain the Access Token.
