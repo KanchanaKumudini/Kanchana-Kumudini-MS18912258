@@ -99,5 +99,9 @@ grant_type=authorization_code&redirect_uri=http%3A%2F%2Flocalhost%3A8080%2Ffaceb
 
 ![image](https://user-images.githubusercontent.com/50174329/58029122-95515b00-7b39-11e9-9dea-cb426476244f.png)
 
+Step 4 - Make your app public.
+
+![image](https://user-images.githubusercontent.com/50174329/58035589-b9ffff80-7b46-11e9-9458-72c6b9909c6a.png)
+
 
 
