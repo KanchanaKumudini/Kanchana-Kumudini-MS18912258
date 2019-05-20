@@ -1,5 +1,6 @@
 # Kanchana-Kumudini-MS18912258
 https://github.com/KanchanaKumudini/Kanchana-Kumudini-MS18912258/network/members
+
 Step 1 - Register your App in Facebook Developer Website
 
 1.1 Create an application in the developer account on Facebook by using https://developers.facebook.com/ and add your new application.
@@ -13,3 +14,6 @@ Step 1 - Register your App in Facebook Developer Website
 1.3 Associate “Facebook Login” with your application.
 
 ![image](https://user-images.githubusercontent.com/50174329/58015317-87d7a900-7b18-11e9-93eb-6ad191a265da.png)
+
+Provide the Redirection Endpoint URL under the Settings of the “Facebok Login”.
+
