@@ -43,5 +43,18 @@ https://www.facebook.com/dialog/oauth?response_type=code&client_id=4474679860824
 
 2.4 Press Continue and facebook will redirect the browser to the Redirection Endpoint URL.
 
+![image](https://user-images.githubusercontent.com/50174329/58017302-7b098400-7b1d-11e9-832c-1e3213f9a510.png)
+
+2.5 Get the URL from the browser.
+
+http://localhost:8080/facebookapp/callback?code=AQCPK2oPP0jNwNdWixP29lr9DzPTpVaFhJxa4I61VGUIx6mq5z9WpO_tXL5qTx6E2vkj1w53_hOUZrdghCOieK7ysQfD59NzfLTcO8Bxs_vhzMV73uAwls2SqR2IpN1Yzcu1BeS2bdI4zUqoDLt-utUmKrmXD-iw58XpYDrr06_acl7kVo112UdgsTWNrYBNXsYDx1GVCI53B45nqoEJYgtMdsngQV_1swNjvx2cdCIztyt5DvqFBk6ntVCY26Ag3FiYD0QipBTQOxfW1StSXO-tC_USWnAvG2mwV5rBHuqRCDuQiX_Ke6vuq-lzTjqVpe4#_=_
+
+Authorization code value = AQCPK2oPP0jNwNdWixP29lr9DzPTpVaFhJxa4I61VGUIx6mq5z9WpO_tXL5qTx6E2vkj1w53_hOUZrdghCOieK7ysQfD59NzfLTcO8Bxs_vhzMV73uAwls2SqR2IpN1Yzcu1BeS2bdI4zUqoDLt-utUmKrmXD-iw58XpYDrr06_acl7kVo112UdgsTWNrYBNXsYDx1GVCI53B45nqoEJYgtMdsngQV_1swNjvx2cdCIztyt5DvqFBk6ntVCY26Ag3FiYD0QipBTQOxfW1StSXO-tC_USWnAvG2mwV5rBHuqRCDuQiX_Ke6vuq-lzTjqVpe4#_=_
+
+Step 3 - Obtaining the Access Token
+
+3.1 Send a HTTP POST request to the Token Endpoint https://graph.facebook.com/oauth/access_token of facebook with the authorization code received in the previous step. 
+
+
 
 
