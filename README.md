@@ -21,3 +21,13 @@ Step 1 - Register your App in Facebook Developer Website
 
 1.5 Obtain your App ID, App Secret and the Redirection Endpoint URL.
 
+![image](https://user-images.githubusercontent.com/50174329/58015872-f5380980-7b19-11e9-938e-fd461fe46edf.png)
+
+App ID = 447467986082418
+App Secret = 363a41d88276ec4fd709ff51e2feca13
+Redirection Endpoint URL = http://localhost:8080/facebookapp/callback
+
+Step 2 - Obtaining the Authorization Code
+
+2.1 Send a HTTP GET request to the Authorize Endpoint of Facebook to obtain the authorization code from facebook using https://www.facebook.com/dialog/oauth.
+
