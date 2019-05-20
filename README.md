@@ -72,6 +72,8 @@ Authorization: Basic NDQ3NDY3OTg2MDgyNDE4OjM2M2E0MWQ4ODI3NmVjNGZkNzA5ZmY1MWUyZmV
 
 ![image](https://user-images.githubusercontent.com/50174329/58018900-bf971e80-7b21-11e9-95e7-5f10630c6292.png)
 
+![image](https://user-images.githubusercontent.com/50174329/58033919-06e1d700-7b43-11e9-8af4-4ef1bb620bad.png)
+
 
 
 3.5 Obtain the Access Token.
