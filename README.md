@@ -82,5 +82,6 @@ Get user acess token for your app.
 
 ![image](https://user-images.githubusercontent.com/50174329/58027969-5d491880-7b37-11e9-8196-ced2900855cf.png)
 
-
+Select the app you have created
+![image](https://user-images.githubusercontent.com/50174329/58028063-91243e00-7b37-11e9-9e8d-895236284913.png)
 
