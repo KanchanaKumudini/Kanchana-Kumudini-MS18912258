@@ -55,6 +55,8 @@ Step 3 - Obtaining the Access Token
 
 3.1 Send a HTTP POST request to the Token Endpoint https://graph.facebook.com/oauth/access_token of facebook with the authorization code received in the previous step. 
 
+![image](https://user-images.githubusercontent.com/50174329/58018176-bc9b2e80-7b1f-11e9-9e3c-d95988cf2a19.png)
+
 
 
 
