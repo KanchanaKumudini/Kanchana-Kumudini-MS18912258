@@ -77,3 +77,7 @@ Authorization: Basic NDQ3NDY3OTg2MDgyNDE4OjM2M2E0MWQ4ODI3NmVjNGZkNzA5ZmY1MWUyZmV
 ![image](https://user-images.githubusercontent.com/50174329/58019023-1b61a780-7b22-11e9-8bcf-84061d8a8dc9.png)
 
 grant_type=authorization_code&redirect_uri=http%3A%2F%2Flocalhost%3A8080%2Ffacebookapp%2Fcallback&client_id=447467986082418&code=AQCPK2oPP0jNwNdWixP29lr9DzPTpVaFhJxa4I61VGUIx6mq5z9WpO_tXL5qTx6E2vkj1w53_hOUZrdghCOieK7ysQfD59NzfLTcO8Bxs_vhzMV73uAwls2SqR2IpN1Yzcu1BeS2bdI4zUqoDLt-utUmKrmXD-iw58XpYDrr06_acl7kVo112UdgsTWNrYBNXsYDx1GVCI53B45nqoEJYgtMdsngQV_1swNjvx2cdCIztyt5DvqFBk6ntVCY26Ag3FiYD0QipBTQOxfW1StSXO-tC_USWnAvG2mwV5rBHuqRCDuQiX_Ke6vuq-lzTjqVpe4#_=_
+
+Get user acess token for your app.
+
+
