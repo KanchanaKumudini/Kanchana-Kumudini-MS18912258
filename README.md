@@ -37,4 +37,11 @@ Step 2 - Obtaining the Authorization Code
 
 https://www.facebook.com/dialog/oauth?response_type=code&client_id=447467986082418&redirect_uri=http%3A%2F%2Flocalhost%3A8080%2Ffacebookapp%2Fcallback&scope=public_profile%20user_posts%20user_friends%20user_photos
 
+2.3 View the User Contect Page.
+
+![image](https://user-images.githubusercontent.com/50174329/58016921-9b850e80-7b1c-11e9-8250-7a9023a1abe5.png)
+
+2.4 Press Continue and facebook will redirect the browser to the Redirection Endpoint URL.
+
+
 
