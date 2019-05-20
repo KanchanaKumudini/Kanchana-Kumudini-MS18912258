@@ -68,3 +68,5 @@ Base64(AppID:AppSecret) = NDQ3NDY3OTg2MDgyNDE4OjM2M2E0MWQ4ODI3NmVjNGZkNzA5ZmY1MW
 
 Authorization: Basic NDQ3NDY3OTg2MDgyNDE4OjM2M2E0MWQ4ODI3NmVjNGZkNzA5ZmY1MWUyZmVjYTEz
 
+3.4 Use a HTTP Client browser plugin like RESTClient send the request.
+
