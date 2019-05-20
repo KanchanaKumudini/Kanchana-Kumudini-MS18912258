@@ -87,6 +87,12 @@ grant_type=authorization_code&redirect_uri=http%3A%2F%2Flocalhost%3A8080%2Ffaceb
 
 3.8 Get access token and select the required permission.
 
+![image](https://user-images.githubusercontent.com/50174329/58028531-903fdc00-7b38-11e9-9f72-bc4a1483e0aa.png)
+
+
+
+
+
 
 
 
