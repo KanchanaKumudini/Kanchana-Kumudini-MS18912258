@@ -15,7 +15,7 @@ Step 1 - Register your App in Facebook Developer Website
 
 ![image](https://user-images.githubusercontent.com/50174329/58015317-87d7a900-7b18-11e9-93eb-6ad191a265da.png)
 
-1.4 Provide the Redirection Endpoint URL under the Settings of the “Facebok Login”.
+1.4 Provide the Redirection Endpoint URL under the Settings of the “Facebook Login”.
 
 ![image](https://user-images.githubusercontent.com/50174329/58015700-8a86ce00-7b19-11e9-9230-bd115c8b8b91.png)
 
