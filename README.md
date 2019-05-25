@@ -114,4 +114,8 @@ Step 4 - Make your app public.
 ![image](https://user-images.githubusercontent.com/50174329/58036821-9f7b5580-7b49-11e9-9121-5723f5a703c4.png)
 
 ![image](https://user-images.githubusercontent.com/50174329/58037714-aa36ea00-7b4b-11e9-82de-dd22572ad4ba.png)
+ 
+ Step 5 - Obtaing Access Token using RESTClient
+ 
+ 
 
