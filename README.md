@@ -119,5 +119,6 @@ Step 4 - Make your app public.
  
  ![image](https://user-images.githubusercontent.com/50174329/58371724-73891700-7f31-11e9-83e8-cfa7259365a9.png)
  
+ ![image](https://user-images.githubusercontent.com/50174329/58371761-cbc01900-7f31-11e9-9083-2d023e8a8e2c.png)
  
 
