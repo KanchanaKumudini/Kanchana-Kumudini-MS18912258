@@ -123,5 +123,6 @@ Step 4 - Make your app public.
  
  4.2 Retrieving user’s timeline posts
  
+ ![image](https://user-images.githubusercontent.com/50174329/58383386-b90e1880-7ff3-11e9-92dd-54893f2db2c0.png)
  
 
